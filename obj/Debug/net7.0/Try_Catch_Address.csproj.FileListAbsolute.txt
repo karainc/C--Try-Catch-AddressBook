@@ -1,0 +1,15 @@
+C:\Users\karal\workspace\csharp\Try_Catch_Address\bin\Debug\net7.0\Try_Catch_Address.exe
+C:\Users\karal\workspace\csharp\Try_Catch_Address\bin\Debug\net7.0\Try_Catch_Address.deps.json
+C:\Users\karal\workspace\csharp\Try_Catch_Address\bin\Debug\net7.0\Try_Catch_Address.runtimeconfig.json
+C:\Users\karal\workspace\csharp\Try_Catch_Address\bin\Debug\net7.0\Try_Catch_Address.dll
+C:\Users\karal\workspace\csharp\Try_Catch_Address\bin\Debug\net7.0\Try_Catch_Address.pdb
+C:\Users\karal\workspace\csharp\Try_Catch_Address\obj\Debug\net7.0\Try_Catch_Address.csproj.AssemblyReference.cache
+C:\Users\karal\workspace\csharp\Try_Catch_Address\obj\Debug\net7.0\Try_Catch_Address.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karal\workspace\csharp\Try_Catch_Address\obj\Debug\net7.0\Try_Catch_Address.AssemblyInfoInputs.cache
+C:\Users\karal\workspace\csharp\Try_Catch_Address\obj\Debug\net7.0\Try_Catch_Address.AssemblyInfo.cs
+C:\Users\karal\workspace\csharp\Try_Catch_Address\obj\Debug\net7.0\Try_Catch_Address.csproj.CoreCompileInputs.cache
+C:\Users\karal\workspace\csharp\Try_Catch_Address\obj\Debug\net7.0\Try_Catch_Address.dll
+C:\Users\karal\workspace\csharp\Try_Catch_Address\obj\Debug\net7.0\refint\Try_Catch_Address.dll
+C:\Users\karal\workspace\csharp\Try_Catch_Address\obj\Debug\net7.0\Try_Catch_Address.pdb
+C:\Users\karal\workspace\csharp\Try_Catch_Address\obj\Debug\net7.0\Try_Catch_Address.genruntimeconfig.cache
+C:\Users\karal\workspace\csharp\Try_Catch_Address\obj\Debug\net7.0\ref\Try_Catch_Address.dll
